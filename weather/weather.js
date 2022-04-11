@@ -18,9 +18,9 @@ var radar = L.tileLayer.wms(radarUrl, radarDisplayOptions).addTo(map);
 var weatherAlertsUrl = 'https://api.weather.gov/alerts/active?region_type=land';
 $.getJSON(weatherAlertsUrl, function(data) {
   L.geoJSON(data, {
-    // Color all alert polygons DarkSlateGray, but color Severe polygons Magenta
+    // Color all alert polygons OrangeRed, but color Severe polygons Magenta
     style: function(feature){
-      var alertColor = 'DarkSlateGray';
+      var alertColor = 'OrangeRed';
       if (feature.properties.severity === 'Severe') alertColor = 'Magenta';
       return { color: alertColor }
     },
