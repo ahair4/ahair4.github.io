@@ -21,7 +21,7 @@ $.getJSON(weatherAlertsUrl, function(data) {
     // Color all alert polygons OrangeRed, but color Severe polygons DarkMagenta
     style: function(feature){
       var alertColor = 'OrangeRed';
-      if (feature.properties.severity === 'Severe') alertColor = 'DarkMagenta'
+      if (feature.properties.severity === 'Severe') alertColor = 'Orange'
        if (feature.properties.severity === 'Minor') alertColor = 'Yellow';
       return { color: alertColor }
     },
