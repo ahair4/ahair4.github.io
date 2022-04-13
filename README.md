@@ -1,5 +1,5 @@
 # ahair4.github.io
-#Current United States Weather Alerts#
+#Current United States Weather Alerts
 
 ##Description 
 This map shows current weather across the united states. Purple boxes are used to show severe alerts, whereas red boxes show any weather alerts of noteworthiness. 
