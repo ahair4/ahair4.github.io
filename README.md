@@ -3,7 +3,7 @@
 
 ##Description 
 
-This map shows current weather across the united states. Purple boxes are used to show severe alerts, whereas red boxes show any weather alerts of noteworthiness. 
+This map shows current weather across the United States. Purple boxes are used to show severe alerts, whereas red boxes show any weather alerts of noteworthiness. 
 
 
 ##How to Use
