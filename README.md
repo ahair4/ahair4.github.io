@@ -10,3 +10,8 @@ This map shows current weather across the United States. Purple boxes are used t
 
 Click on a box to see more information about a specific weather alert of interest 
 <https://ahair4.github.io/weather/>
+
+
+#Photo Map
+Top ten restaurants that contribute to the Michigan State University experience.
+https://arcg.is/091Gry
