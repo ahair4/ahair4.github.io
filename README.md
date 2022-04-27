@@ -13,5 +13,6 @@ Click on a box to see more information about a specific weather alert of interes
 
 
 #Photo Map
+
 Top ten restaurants that contribute to the Michigan State University experience.
-https://arcg.is/091Gry
+https://ahair4.github.io/photomap/
